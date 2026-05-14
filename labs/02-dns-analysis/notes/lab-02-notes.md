@@ -7,6 +7,14 @@
 - Internet-connected VM network adapter
 
 ---
+## Wireshark Filters Used
+dns
+udp.port == 53
+icmp
+
+## Domains Tested
+bbc.co.uk
+google.com
 
 ## Commands Used
 
