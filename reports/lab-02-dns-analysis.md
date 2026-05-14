@@ -52,3 +52,10 @@ The following commands were used to generate DNS traffic:
 ```powershell
 nslookup bbc.co.uk
 ping google.com
+
+## ICMP Connectivity Test
+
+<img width="972" height="654" alt="Screenshot 2026-05-14 141608" src="https://github.com/user-attachments/assets/2f2ab81d-272b-4f3a-bfec-48e6e3067d73" />
+
+
+
