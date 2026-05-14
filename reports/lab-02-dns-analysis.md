@@ -46,6 +46,10 @@ and
 
 <img width="1756" height="870" alt="02_nslookup_bbc_co_uk_output" src="https://github.com/user-attachments/assets/5a97d9d9-1891-4c54-aa0b-e8f3e119a71c" />
 
+## ICMP Connectivity Test
+
+<img width="972" height="654" alt="Screenshot 2026-05-14 141608" src="https://github.com/user-attachments/assets/2f2ab81d-272b-4f3a-bfec-48e6e3067d73" />
+
 
 The following commands were used to generate DNS traffic:
 
@@ -53,9 +57,6 @@ The following commands were used to generate DNS traffic:
 nslookup bbc.co.uk
 ping google.com
 
-## ICMP Connectivity Test
-
-<img width="972" height="654" alt="Screenshot 2026-05-14 141608" src="https://github.com/user-attachments/assets/2f2ab81d-272b-4f3a-bfec-48e6e3067d73" />
 
 
 
